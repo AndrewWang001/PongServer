@@ -4258,6 +4258,16 @@
 		)
 		(uuid "52eab6aa-891d-4ee8-8fe9-d9e65e03fb47")
 	)
+	(text "Represents STM32F103RBT6 on Nucleo-64 board (LQFP64)"
+		(exclude_from_sim no)
+		(at 32.258 90.424 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "563774af-20df-4684-bee3-aa82fdc7d725")
+	)
 	(text "Servo Motors"
 		(exclude_from_sim no)
 		(at 62.738 18.034 0)
@@ -11089,7 +11099,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "STM32F103RBTx LQFP64"
+		(property "Value" "STM32F103RBT6"
 			(at 51.054 92.456 0)
 			(effects
 				(font
